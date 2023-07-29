@@ -1,8 +1,8 @@
 # UK Latest News ChatGPT Plugin
 
-This repository hosts the 'UK Latest News ChatGPT Plugin', a Next.js app designed to fetch and present the UK's latest news stories in ChatGPT.
+This repository hosts the 'UK Latest News' ChatGPT Plugin, a Next.js app designed to fetch and present the UK's latest news stories in ChatGPT.
 
-You can install it via the ChatGPT plugin store, or read on to run it locally.
+You can install it via the ChatGPT Plugin Store, or read on to run it locally.
 
 ![Plugin showcase](./public/demo.png)
 
