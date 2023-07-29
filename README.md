@@ -1,12 +1,12 @@
 # UK Latest News ChatGPT Plugin
 
+![Made with ChatGPT](https://img.shields.io/badge/Made%20with-ChatGPT-blueviolet) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![OpenAPI Specification](https://img.shields.io/badge/OpenAPI-3.0.3-green) ![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-blue)
+
 This repository hosts the 'UK Latest News' ChatGPT Plugin, a Next.js app designed to fetch and present the UK's latest news stories in ChatGPT.
 
 You can install it via the ChatGPT Plugin Store, or read on to run it locally.
 
 ![Plugin showcase](./public/demo.png)
-
-![Made with ChatGPT](https://img.shields.io/badge/Made%20with-ChatGPT-blueviolet) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![OpenAPI Specification](https://img.shields.io/badge/OpenAPI-3.0.3-green) ![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-blue)
 
 ## Getting Started
 
