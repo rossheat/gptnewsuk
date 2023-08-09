@@ -58,7 +58,7 @@ const features = [
     icon: ClockIcon,
   },
   {
-    name: "All the details",
+    name: "Get the details",
     description:
       "Get the full details, a summary, or bullet points of any current story.",
     icon: MagnifyingGlassCircleIcon,
